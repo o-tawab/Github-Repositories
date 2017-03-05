@@ -4,13 +4,13 @@ My collection of repositories that worth more care.
 ##### [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 # Table of Contents
-1. [Machine Learning](https://github.com/3ammor/Github-Repositories#machine-learning)
+* [Machine Learning](https://github.com/3ammor/Github-Repositories#machine-learning)
   1. [Computer Vision](https://github.com/3ammor/Github-Repositories#computer-vision)
   2. [Reinforcement Learning](https://github.com/3ammor/Github-Repositories#reinforcement-learning)
   3. [Natural Language Processing](https://github.com/3ammor/Github-Repositories#natural-language-processing)
   4. [Courses](https://github.com/3ammor/Github-Repositories#courses)
   5. [General](https://github.com/3ammor/Github-Repositories#general)
-2. [Awesome](https://github.com/3ammor/Github-Repositories#awesome)
+* [Awesome](https://github.com/3ammor/Github-Repositories#awesome)
   
 
 ## Machine Learning
