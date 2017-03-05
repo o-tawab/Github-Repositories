@@ -30,6 +30,7 @@ My collection of repositories that worth more care.
   * [Using Keras and Deep Deterministic Policy Gradient to play TORCS](https://github.com/yanpanlau/DDPG-Keras-Torcs)
   * [Implementation of prioritized experience replay](https://github.com/Damcy/prioritized-experience-replay)
   * [DQN-tensorflow](https://github.com/devsisters/DQN-tensorflow)
+  * [Asynchronous Methods for Deep Reinforcement Learning](https://github.com/miyosuda/async_deep_reinforce)
   * [Deep Reinforcement Learning Algorithms Implementation](https://github.com/only4hj/DeepRL)
   * [TensorFlow implementation of Deep Reinforcement Learning papers](https://github.com/carpedm20/deep-rl-tensorflow)
   * [A list of recent papers regarding deep reinforcement learning](https://github.com/junhyukoh/deep-reinforcement-learning-papers)
