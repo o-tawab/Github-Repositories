@@ -20,6 +20,7 @@ My collection of repositories that worth more care.
   * [Deep Convolutional Generative Adversarial Networks](https://github.com/Newmu/dcgan_code)
   * [Pix2pix: Image-to-Image Translation with Conditional Adversarial Nets](https://github.com/affinelayer/pix2pix-tensorflow)
   * [Generative Adversarial Text-to-Image Synthesis](https://github.com/reedscot/icml2016)
+  * [TensorBox: Object detection in TensorFlow](https://github.com/TensorBox/TensorBox)
   * [Object Detection with Faster R-CNN in Chainer](https://github.com/mitmul/chainer-faster-rcnn)
   * [Tensorflow implementation of Faster R-CNN and ResNets](https://github.com/DeepRNN/object_detection)
 
