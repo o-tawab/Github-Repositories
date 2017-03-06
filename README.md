@@ -5,11 +5,20 @@ My collection of repositories that worth more care.
 
 # Table of Contents
 * [Machine Learning](https://github.com/3ammor/Github-Repositories#machine-learning)
-  1. [Computer Vision](https://github.com/3ammor/Github-Repositories#computer-vision)
-  2. [Reinforcement Learning](https://github.com/3ammor/Github-Repositories#reinforcement-learning)
-  3. [Natural Language Processing](https://github.com/3ammor/Github-Repositories#natural-language-processing)
-  4. [Courses](https://github.com/3ammor/Github-Repositories#courses)
-  5. [General](https://github.com/3ammor/Github-Repositories#general)
+  - [Computer Vision](https://github.com/3ammor/Github-Repositories#computer-vision)
+    * Generative Adversarial Networks
+    * Object Detection
+  - [Reinforcement Learning](https://github.com/3ammor/Github-Repositories#reinforcement-learning)
+    * Q-Learning
+    * Policy Gradient
+    * Model-Based
+    * Others
+  - [Natural Language Processing](https://github.com/3ammor/Github-Repositories#natural-language-processing)
+  - [Courses](https://github.com/3ammor/Github-Repositories#courses)
+    * Computer Vision
+    * Reinforcement Learning
+    * NLP
+  - [General](https://github.com/3ammor/Github-Repositories#general)
 * [Awesome](https://github.com/3ammor/Github-Repositories#awesome)
   
 
@@ -17,20 +26,28 @@ My collection of repositories that worth more care.
 
 ### Computer Vision
 
+##### Generative Adversarial Networks
   * [Deep Convolutional Generative Adversarial Networks](https://github.com/Newmu/dcgan_code)
   * [Pix2pix: Image-to-Image Translation with Conditional Adversarial Nets](https://github.com/affinelayer/pix2pix-tensorflow)
   * [Generative Adversarial Text-to-Image Synthesis](https://github.com/reedscot/icml2016)
+##### Object Detection
   * [TensorBox: Object detection in TensorFlow](https://github.com/TensorBox/TensorBox)
   * [Object Detection with Faster R-CNN in Chainer](https://github.com/mitmul/chainer-faster-rcnn)
   * [Tensorflow implementation of Faster R-CNN and ResNets](https://github.com/DeepRNN/object_detection)
 
 ### Reinforcement Learning
 
-  * [Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
-  * [Using Keras and Deep Deterministic Policy Gradient to play TORCS](https://github.com/yanpanlau/DDPG-Keras-Torcs)
+##### Q-Learning
   * [Implementation of prioritized experience replay](https://github.com/Damcy/prioritized-experience-replay)
   * [DQN-tensorflow](https://github.com/devsisters/DQN-tensorflow)
+
+##### Policy Gradient
+  * [Using Keras and Deep Deterministic Policy Gradient to play TORCS](https://github.com/yanpanlau/DDPG-Keras-Torcs)
   * [Asynchronous Methods for Deep Reinforcement Learning](https://github.com/miyosuda/async_deep_reinforce)
+
+##### Model-Based
+##### Others
+  * [Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
   * [Deep Reinforcement Learning Algorithms Implementation](https://github.com/only4hj/DeepRL)
   * [TensorFlow implementation of Deep Reinforcement Learning papers](https://github.com/carpedm20/deep-rl-tensorflow)
   * [A list of recent papers regarding deep reinforcement learning](https://github.com/junhyukoh/deep-reinforcement-learning-papers)
@@ -39,9 +56,16 @@ My collection of repositories that worth more care.
 
 ### Courses
 
-  * [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
+##### Computer Vision
+  * [class assingments CS231n](https://github.com/cthorey/CS231)
+##### Reinforcement Learning
   * [Berkeley Deep RL Course Homework](https://github.com/berkeleydeeprlcourse/homework)
   * [Exercises and Solutions to accompany Sutton's Book and David Silver's course.](https://github.com/dennybritz/reinforcement-learning)
+
+##### NLP
+  * [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
+
+##### Others
   * [A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
 
 ### General
