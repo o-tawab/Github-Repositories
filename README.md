@@ -22,7 +22,7 @@ My collection of repositories that worth more care.
   - [General](https://github.com/3ammor/Github-Repositories#general)
 * [Awesome](https://github.com/3ammor/Github-Repositories#awesome)
   
-
+***
 ## Machine Learning
 
 ### Computer Vision
@@ -74,6 +74,7 @@ My collection of repositories that worth more care.
 
   * [Summaries and notes on Deep Learning research papers](https://github.com/dennybritz/deeplearning-papernotes)
   
+---
 ## Awesome
 
   * [awesome](https://github.com/sindresorhus/awesome)
