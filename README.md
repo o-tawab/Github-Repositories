@@ -18,6 +18,7 @@ My collection of repositories that worth more care.
     * Computer Vision
     * Reinforcement Learning
     * NLP
+    * Others
   - [General](https://github.com/3ammor/Github-Repositories#general)
 * [Awesome](https://github.com/3ammor/Github-Repositories#awesome)
   
@@ -58,6 +59,7 @@ My collection of repositories that worth more care.
 
 ##### Computer Vision
   * [class assingments CS231n](https://github.com/cthorey/CS231)
+  
 ##### Reinforcement Learning
   * [Berkeley Deep RL Course Homework](https://github.com/berkeleydeeprlcourse/homework)
   * [Exercises and Solutions to accompany Sutton's Book and David Silver's course.](https://github.com/dennybritz/reinforcement-learning)
