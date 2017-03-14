@@ -70,6 +70,7 @@ My collection of repositories that worth more care.
 
 ##### Others
   * [A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
+  * [Interviews](https://github.com/kdn251/interviews)
 
 ### General
 
